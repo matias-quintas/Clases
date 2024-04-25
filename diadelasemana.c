@@ -20,5 +20,5 @@ int main(void)
         default:  p("No registrado");break;
     }
 
-    return 0;  
+    return 0;
 }
